@@ -9,7 +9,7 @@ function LandingPage() {
     ${darkmode? 'text-[#A6ADAF]':''}`}>
       <img 
         src="/assets/self.png" 
-        alt="Vinay's profile picture" 
+        alt="Logo of My Portfolio" 
         className="w-96 h-80 md:w-[430px] md:h-96 object-cover"
       />
       <div className="mt-8 md:mt-0 md:ml-12 text-left md:text-left">
